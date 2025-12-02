@@ -5,7 +5,7 @@
             "locationID": "example5_site1",
             "locationLat": 53.68584,
             "locationLon": 0.07000,
-            "simData": "https://service.tereno.net/thredds/dodsC/forecastnrw/products/forecasts_daily/vwc_DE05_ECMWF-HRES_forecast_r1i1p2_FZJ-IBG3-ParFlowCLM380_hgfadapter-d00-v05_1day_2025040912.0012-0228.nc",
+            "simData": "https://service.tereno.net/thredds/dodsC/forecastnrw/products/ParFlow-DE06-MRF/vwc_DE06_ECMWF-HRES_forecast_r1i1p1_FZJ-IBG3-ParFlowCLM380_hgfadapter-d00-v05_1day_2025113012.20251201-20251209.nc",
             "depth": 0.3
         }
     ]

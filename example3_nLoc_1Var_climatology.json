@@ -1,4 +1,4 @@
-{
+example3_nLoc_1Var_climatology.json{
     "indicatorFile": "DE-0055_INDICATOR_regridded_rescaled_SoilGrids250-v2017_BGRvector_newAllv.nc",
     "locations": [
         {
